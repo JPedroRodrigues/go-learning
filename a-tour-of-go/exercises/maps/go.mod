@@ -1,4 +1,4 @@
-module exercises/slices
+module exercises/maps
 
 go 1.25.5
 
